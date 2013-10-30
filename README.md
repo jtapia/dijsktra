@@ -1,4 +1,8 @@
-dijsktra
+Djisktra
 ========
 
-Dijsktra algorithm
+Run the graph example:
+
+```
+ruby algorithm.rb
+```
